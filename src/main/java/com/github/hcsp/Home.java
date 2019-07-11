@@ -4,7 +4,7 @@ import com.github.hcsp.pet.Cat;
 
 public class Home {
     public static void main(String[] args) {
-        System.out.println(newCat("66"));
+        System.out.println(newCat("White"));
     }
 
     public static Cat newCat(String name) {
