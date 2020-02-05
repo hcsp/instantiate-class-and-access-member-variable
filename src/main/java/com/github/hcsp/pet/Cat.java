@@ -8,4 +8,3 @@ public class Cat {
         return "Cat(" + name + ")";
     }
 }
-//
