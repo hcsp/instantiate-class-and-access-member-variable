@@ -11,7 +11,7 @@ public class Home {
         // and return it here
         // 在这里创建一个新的Cat实例，将其成员变量"name"设为参数所指定的名字，并返回之
         Cat newCat = new Cat();
-        newCat.name =name;
+        newCat.name = name;
         return newCat;
     }
 }
