@@ -9,7 +9,7 @@ public class Home {
 
     public static Cat newCat(String name) {
         Cat cat = new Cat();
-        cat.name = "White";
+        cat.name = name;
         return cat;
         // Create a new Cat instance, assign the name to its "name" member variable,
         // and return it here
