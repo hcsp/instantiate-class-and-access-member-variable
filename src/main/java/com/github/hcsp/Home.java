@@ -7,6 +7,7 @@ public class Home {
         System.out.println(newCat("White"));
     }
 
+
     public static Cat newCat(String name) {
         // Create a new Cat instance, assign the name to its "name" member variable,
         // and return it here
