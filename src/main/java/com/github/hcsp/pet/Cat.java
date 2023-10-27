@@ -4,7 +4,7 @@ public class Cat {
     public String name;
 
     public Cat() {
-        this.name=name;
+        this.name = name;
     }
 
     @Override
